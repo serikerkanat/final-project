@@ -21,6 +21,8 @@ The project aims to raise awareness about whales, their characteristics, and the
 
 ## Team Members
 - Amir Zhunussov
+Alisher Mukhamedov
+Yerkanat Manassov
 
 ## Screenshot
 **Blue Giants Preview**
