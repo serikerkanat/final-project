@@ -1,4 +1,3 @@
-```markdown
 # Blue Giants
 
 ## Project Name
