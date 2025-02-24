@@ -1,6 +1,6 @@
-#Blue Giants
-##Project Name
-###Blue Giants
+# Blue Giants
+## Project Name
+### Blue Giants
 
 ###Project Description
 ##Blue Giants is an educational platform designed to provide information about whales, the largest and most majestic creatures of the ocean. This project features a backend system that stores whale data in MongoDB and a frontend interface where users can explore and interact with this information.
