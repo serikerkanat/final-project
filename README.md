@@ -26,6 +26,8 @@ Developers looking to understand full-stack development with Node.js and MongoDB
 
 Team Members
 Amir Zhunussov
+Alisher Mukhamedov
+Yerkanat Manassov
 
 Screenshot
 Blue Giants Preview
@@ -73,7 +75,7 @@ Copy
 cd frontend
 Open the index.html file in your browser or use a local server (e.g., Live Server in VS Code).
 ```
-Tools and Resources
+###Tools and Resources
 Backend: Node.js, Express.js
 
 Database: MongoDB (Compass for local testing, Atlas for cloud hosting)
@@ -84,16 +86,16 @@ API Testing: Postman
 
 Code Editor: Visual Studio Code
 
-API Documentation
+###API Documentation
 Endpoints
 1. Get All Whales
 Method: GET
 
 URL: /api/whales
 
-Description: Retrieve a list of all whales.
+###Description: Retrieve a list of all whales.
 
-Response:
+###Response:
 
 json
 Copy
