@@ -42,13 +42,13 @@ Installation Steps
 Backend Setup
 Clone the repository:
 
-bash
+```bash
 Copy
 git clone https://github.com/yourusername/blue-giants.git
 cd blue-giants
 Install dependencies:
-
-bash
+```
+```bash
 Copy
 npm install
 Create a .env file in the root directory and add your environment variables:
@@ -59,20 +59,20 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=3000
 Run the backend server:
-
-bash
+```
+```bash
 Copy
 npm start
 Ensure the server is running on the specified port (default: 3000).
-
+```
 Frontend Setup
 Navigate to the frontend folder:
 
-bash
+```bash
 Copy
 cd frontend
 Open the index.html file in your browser or use a local server (e.g., Live Server in VS Code).
-
+```
 Tools and Resources
 Backend: Node.js, Express.js
 
